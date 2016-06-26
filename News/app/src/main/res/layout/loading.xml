@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:lib="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <com.github.glomadrian.loadingballs.BallView
+        android:id="@+id/BallView_loading"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:layout_margin="30dp"
+        lib:ball_colors="@array/color"
+        lib:balls="3"
+        lib:enable_size_animation="true"
+        lib:max_ball_size="16dp"
+        lib:min_ball_size="8dp"
+        lib:movement_cycle_time="1500"
+        lib:size_cycle_time="500" />
+
+    <!--<TextView-->
+    <!--android:id="@+id/loading"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/loading"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="32sp" />-->
+
+    <!--<pl.tajchert.sample.DotsTextView-->
+    <!--android:id="@+id/dots"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@color/textPrimaryDark"-->
+    <!--android:textSize="45sp"-->
+    <!--dots:autoplay="true"-->
+    <!--dots:period="1000" />-->
+</RelativeLayout>

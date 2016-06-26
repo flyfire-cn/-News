@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">易源News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_share">分享</string>
+    <string name="action_theme_change_light">日间模式</string>
+    <string name="action_theme_change_night">夜间模式</string>
+    <string name="transition_img">切换动画</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="News">新闻资讯</string>
+    <string name="Camera">相机</string>
+    <string name="Gallery">图库</string>
+    <string name="Setting">设置</string>
+    <string name="Share">分享</string>
+    <string name="Smile">开心一刻</string>
+    <string name="Music">音乐聆听</string>
+    <string name="Robot">聊天机器人</string>
+    <string name="Name">庄欣锴</string>
+    <string name="Joke">笑话</string>
+
+    <string name="today">今天</string>
+    <string name="pm">PM2.5</string>
+    <string name="default_text">_ _</string>
+    <string name="forecast">预报</string>
+    <string name="information">详细信息</string>
+    <string name="felt_air_temp">体感温度</string>
+    <string name="humidity">湿度</string>
+    <string name="wind">风向风力</string>
+    <string name="uv_index">紫外线指数</string>
+    <string name="dressing_index">穿衣指数</string>
+    <string name="title_city">城市选择</string>
+
+
+
+    <!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_release_label">放开以刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入…</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="loading">正在加载</string>
+    <string name="refresh">刷新</string>
+    <string name="toolbar_close">关闭</string>
+    <string name="Chat">图灵机器人</string>
+</resources>
