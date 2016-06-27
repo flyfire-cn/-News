@@ -10,8 +10,7 @@
 [loading动画](https://github.com/dinuscxj/LoadingDrawable.git)使用LoadingDrawable开源库
 
 ###新闻资讯页面
-    
-数据所用接口来自百度API Store 的[易源新闻免费API](http://apistore.baidu.com/apiworks/servicedetail/688.html),自定义网络请求工具类
+    数据所用接口来自百度API Store 的[易源新闻免费API](http://apistore.baidu.com/apiworks/servicedetail/688.html),自定义网络请求工具类
 **NetRequestUtil**>**Util**,通Mode层实现**API的JSON数据解析**,Presenter层获取Mode层解析的数据，展示在View层
 **界面展示** Fragment容器采用 **CoordinatorLayout**,标签栏采用**TabLayout**，可以横向滚动,Item布局采用**RecycleView**+**SwipeRefreshLayout** +**CardView** 实现卡片式布局 和下拉刷新，上拉加载.通过**Glide**显示图片,点击跳转详情页面时通过**ActivityOptionsCompat**实现图片放大;
 通过设置不同channelId 来获取不同频道的新闻
