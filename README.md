@@ -41,6 +41,8 @@
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
            Everyone is permitted to copy and distribute verbatim copies
           of this license document, but changing it is not allowed.
+效果图
+------------------------------------------------------------------------
 
 声明
 --------------------------------------------------------------------
