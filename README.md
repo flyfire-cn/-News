@@ -29,12 +29,12 @@
 
 ##**Library引用**
 *  **GSON** Link: [compile 'com.google.code.gson:gson:2.6.2'](http://github.com/google/gson "GSON")
-*  **Volley** Link: [compile 'com.mcxiaoke.volley:library:1.0.19'](https://github.com/mcxiaoke/android-volley.git)
-*  **Glide** Link:[compile 'com.github.bumptech.glide:glide:3.7.0'](https://github.com/bumptech/glide.git)
-*  **Loading** Link:[compile 'pl.tajchert:waitingdots:0.2.0'](https://github.com/tajchert/WaitingDots.git)
-*  **LogUtils** Link: [compile 'com.apkfuns.logutils:library:1.2.2'](https://github.com/pengwei1024/LogUtils.git)
-*  **PhotoView** Link[compile 'com.github.chrisbanes.photoview:library:1.2.4'](https://github.com/chrisbanes/PhotoView.git)
-*  **ButterKnife** Link: [compile 'com.jakewharton:butterknife:7.0.1'](http://github.com/jakewharton/butterknife)
+*  **Volley** Link: [compile 'com.mcxiaoke.volley:library:1.0.19'](https://github.com/mcxiaoke/android-volley.git "Volley")
+*  **Glide** Link:[compile 'com.github.bumptech.glide:glide:3.7.0'](https://github.com/bumptech/glide.git "Glide")
+*  **Loading** Link:[compile 'pl.tajchert:waitingdots:0.2.0'](https://github.com/tajchert/WaitingDots.git "Loading")
+*  **LogUtils** Link: [compile 'com.apkfuns.logutils:library:1.2.2'](https://github.com/pengwei1024/LogUtils.git "LogUtils")
+*  **PhotoView** Link[compile 'com.github.chrisbanes.photoview:library:1.2.4'](https://github.com/chrisbanes/PhotoView.git "PhotoView")
+*  **ButterKnife** Link: [compile 'com.jakewharton:butterknife:7.0.1'](http://github.com/jakewharton/butterknife "ButterKnife")
 
 ##**License**
            Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
@@ -43,7 +43,7 @@
           of this license document, but changing it is not allowed.
 效果图
 ------------------------------------------------------------------------
-
+![image](https://github.com/zxk123/-News.git/raw/master/GIF/splash.png "SPLASH")
 声明
 --------------------------------------------------------------------
 '此程序为个人练习项目，说有数据来源于正规手段<br>
