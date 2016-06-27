@@ -43,7 +43,14 @@
           of this license document, but changing it is not allowed.
 效果图
 ------------------------------------------------------------------------
-![image](https://github.com/zxk123/-News/raw/master/GIF/splash.png "SPLASH")
+![image](https://github.com/zxk123/-News/raw/master/GIF/splash.png "SPLASH") ![image](https://github.com/zxk123/-News/raw/master/GIF/news.png "NEWS")
+![image](https://github.com/zxk123/-News/raw/master/GIF/turing.png "TURING")
+![image](https://github.com/zxk123/-News/raw/master/GIF/weather.png "WEATHER")
+![image](https://github.com/zxk123/-News/raw/master/GIF/joke.png "JOKE")
+![image](https://github.com/zxk123/-News/raw/master/GIF/nav.png "NAVIGATION")
+![image](https://github.com/zxk123/-News/raw/master/GIF/yejian.png "YEJIAN")
+
+
 声明
 --------------------------------------------------------------------
 '此程序为个人练习项目，说有数据来源于正规手段<br>
