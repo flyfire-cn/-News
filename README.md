@@ -47,7 +47,6 @@
 ![image](https://github.com/zxk123/-News/raw/master/GIF/turing.png "TURING")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/weather.png "WEATHER")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/joke.png "JOKE")
-![image](https://github.com/zxk123/-News/raw/master/GIF/nav.png "NAVIGATION")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/yejian.png "YEJIAN")
 
 
