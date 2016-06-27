@@ -28,7 +28,7 @@
 通过改变主题颜色来实现白天和夜间的切换
 
 ##**Library引用**
-*  **GSON** Link: [compile 'com.google.code.gson:gson:2.6.2'](http://github.com/google/gson)
+*  **GSON** Link: [compile 'com.google.code.gson:gson:2.6.2'](http://github.com/google/gson "GSON")
 *  **Volley** Link: [compile 'com.mcxiaoke.volley:library:1.0.19'](https://github.com/mcxiaoke/android-volley.git)
 *  **Glide** Link:[compile 'com.github.bumptech.glide:glide:3.7.0'](https://github.com/bumptech/glide.git)
 *  **Loading** Link:[compile 'pl.tajchert:waitingdots:0.2.0'](https://github.com/tajchert/WaitingDots.git)
@@ -51,4 +51,4 @@
 
 联系方式
 ------------------------------------------------------------------------
-Email：[1020779970@qq.com](http://mail.qq.com):bowtie:
+Email：[1020779970@qq.com](http://mail.qq.com "QQ邮箱"):bowtie:
