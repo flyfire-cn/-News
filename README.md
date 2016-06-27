@@ -43,7 +43,7 @@
           of this license document, but changing it is not allowed.
 效果图
 ------------------------------------------------------------------------
-![image](https://github.com/zxk123/-News/raw/master/GIF/splash "SPLASH")
+![image](https://github.com/zxk123/-News/raw/master/GIF/splash.png "SPLASH")
 声明
 --------------------------------------------------------------------
 '此程序为个人练习项目，说有数据来源于正规手段<br>
