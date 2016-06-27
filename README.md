@@ -41,3 +41,12 @@
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
            Everyone is permitted to copy and distribute verbatim copies
           of this license document, but changing it is not allowed.
+
+声明
+--------------------------------------------------------------------
+'此程序为个人练习项目，说有数据来源于正规手段<br>
+并无任何商业用途</br>
+
+联系方式
+------------------------------------------------------------------------
+Email：[1020779970@qq.com](http://mail.qq.com)
