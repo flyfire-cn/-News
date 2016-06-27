@@ -48,6 +48,7 @@
 ![image](https://github.com/zxk123/-News/raw/master/GIF/weather.png "WEATHER")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/joke.png "JOKE")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/yejian.png "YEJIAN")
+![image](https://github.com/zxk123/-News/raw/master/GIF/navigation.png "NAVIGATION")
 
 
 声明
