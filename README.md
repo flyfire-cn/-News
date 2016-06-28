@@ -35,13 +35,10 @@
 *  **LogUtils** Link: [compile 'com.apkfuns.logutils:library:1.2.2'](https://github.com/pengwei1024/LogUtils.git "LogUtils")
 *  **PhotoView** Link[compile 'com.github.chrisbanes.photoview:library:1.2.4'](https://github.com/chrisbanes/PhotoView.git "PhotoView")
 *  **ButterKnife** Link: [compile 'com.jakewharton:butterknife:7.0.1'](http://github.com/jakewharton/butterknife "ButterKnife")
+
 ##**源码依赖**
 引用[Umeng](http://www.umeng.com/)实现App应该统计
-##**License**
-           Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
-          51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
-           Everyone is permitted to copy and distribute verbatim copies
-          of this license document, but changing it is not allowed.
+
 效果图
 ------------------------------------------------------------------------
 ![image](https://github.com/zxk123/-News/raw/master/GIF/splash.png "SPLASH") ![image](https://github.com/zxk123/-News/raw/master/GIF/news.png "NEWS")
@@ -51,7 +48,12 @@
 ![image](https://github.com/zxk123/-News/raw/master/GIF/yejian.png "YEJIAN")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/navigation.png "NAVIGATION")
 
-
+##**License**
+           Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
+          51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+           Everyone is permitted to copy and distribute verbatim copies
+          of this license document, but changing it is not allowed.
+          
 声明
 --------------------------------------------------------------------
 '此程序为个人练习项目，说有数据来源于正规手段<br>
