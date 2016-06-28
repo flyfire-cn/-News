@@ -35,7 +35,8 @@
 *  **LogUtils** Link: [compile 'com.apkfuns.logutils:library:1.2.2'](https://github.com/pengwei1024/LogUtils.git "LogUtils")
 *  **PhotoView** Link[compile 'com.github.chrisbanes.photoview:library:1.2.4'](https://github.com/chrisbanes/PhotoView.git "PhotoView")
 *  **ButterKnife** Link: [compile 'com.jakewharton:butterknife:7.0.1'](http://github.com/jakewharton/butterknife "ButterKnife")
-
+##**源码依赖**
+引用[Umeng](http://www.umeng.com/)实现App应该统计
 ##**License**
            Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
           51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
