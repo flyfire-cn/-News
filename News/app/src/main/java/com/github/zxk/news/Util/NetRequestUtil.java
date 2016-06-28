@@ -105,7 +105,7 @@ public class NetRequestUtil {
     }
 
     /**
-     * 将map型转为请求参数型
+     * 将map型转为请求参数型....
      *
      * @param paramMap
      * @return
