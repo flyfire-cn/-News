@@ -1,4 +1,4 @@
-package com.github.zxk.news.Util;
+﻿package com.github.zxk.news.Util;
 
 import android.content.Context;
 import android.util.Log;
@@ -105,7 +105,7 @@ public class NetRequestUtil {
     }
 
     /**
-     * 定义参数
+     * 将map型转为请求参数型
      *
      * @param paramMap
      * @return
