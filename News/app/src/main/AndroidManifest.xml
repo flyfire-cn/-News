@@ -47,10 +47,10 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".UI.activity.NewsDetailActivity"
-            android:theme="@style/AppTheme.NoActionBar.Translucent" />
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".UI.activity.ImageBrowseActivity"
-            android:theme="@style/AppTheme.NoActionBar.Translucent" />
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
