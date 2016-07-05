@@ -47,6 +47,7 @@
 ![image](https://github.com/zxk123/-News/raw/master/GIF/joke.png "JOKE")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/yejian.png "YEJIAN")
 ![image](https://github.com/zxk123/-News/raw/master/GIF/navigation.png "NAVIGATION")
+![image](https://github.com/zxk123/-News/raw/master/GIF/Loading.png "LOADING")
 
 ##**License**
            Copyright (C) 1989, 1991 Free Software Foundation, Inc., <http://fsf.org/>
