@@ -21,34 +21,4 @@
             android:title="@string/Robot" />
     </group>
 
-    <group
-        android:id="@+id/Tools"
-        android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:orderInCategory="5"
-            android:title="@string/Camera" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:orderInCategory="6"
-            android:title="@string/Gallery" />
-        <!--<item-->
-        <!--android:id="@+id/nav_slideshow"-->
-        <!--android:icon="@drawable/ic_menu_slideshow"-->
-        <!--android:title="Slideshow" />-->
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:orderInCategory="7"
-            android:title="@string/Setting" />
-        <item
-            android:id="@+id/nav_share"
-            android:icon="@drawable/ic_menu_share"
-            android:orderInCategory="8"
-            android:title="@string/Share" />
-    </group>
-
-
 </menu>
