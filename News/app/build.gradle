@@ -38,8 +38,7 @@ dependencies {
     //loading加载动画
     compile 'pl.tajchert:waitingdots:0.2.0'
     compile project(':libraries:loadinglibrary')
-//    compile 'com.github.glomadrian:loadingballs:1.1@aar'
-
+    compile 'com.github.glomadrian:loadingballs:1.1@aar'
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.github.chrisbanes.photoview:library:1.2.4'
     compile 'com.umeng.analytics:analytics:latest.integration'
